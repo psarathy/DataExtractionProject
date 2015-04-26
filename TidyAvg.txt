@@ -1,0 +1,2 @@
+"x"
+"/Users/priyasarathy/Documents/Rclass/DataClass/UCI HAR Dataset/TidyAvg.txt"
